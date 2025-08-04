@@ -22,10 +22,7 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
-                   <configuration>
-                    <source>1.8</source>       
-                    <target>1.8</target>
-                   </configuration>
+                   
 	</dependencies>
 	
 	<distributionManagement>
